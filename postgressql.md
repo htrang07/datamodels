@@ -1,1 +1,2 @@
+This is a link to the database called [PostgreSQL](https://www.postgresql.org/). PostgreSQL is an open-source database. The data model is SQL. The hosting model is client/server. Download the PostgreSQL JDBC driver from the PostgreSQL website, then add it to your Java application's classpath to connect to the driver. Create a JDBC connection string to connect to the database once the driver has been installed.
 

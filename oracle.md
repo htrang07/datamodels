@@ -1,1 +1,2 @@
+This is a link to the database called [Oracle](https://www.oracle.com/). Oracle is a commercial database. The data model is SQL. The hosting models are client/server, local and cloud. Python can access the Oracle Database via cx Oracle drivers, and Java can do so using the Java Database Connectivity. Users can connect to and interact with databases that use the Oracle Database thanks to the JDBC API. 
 
